@@ -1,2 +1,3 @@
-import records from './csv';
-import crawler from './xlsx';
+import crawler from './puppeteer';
+
+crawler();
